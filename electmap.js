@@ -2,7 +2,7 @@ var createPolitician = function(name, partyColor){
 
 var politician = {};
 
-politician.name= name;
+politician.name = name;
 politician.electResults=null;
 politician.totalvotes = 0;
 politician.partyColor = partyColor;
